@@ -7,7 +7,17 @@ This project provides an API to classify documents (such as invoices) and extrac
 - **Document Classification**: Classify documents into categories like invoice, email, or budget.
 - **Invoice Extraction**: If the document is classified as an invoice, key information (invoice number, date, amount, vendor) is extracted.
 - **Supports PDF and Image Files**: Extract text from both PDFs and image files using OCR.
+Step 2: Set up the virtual environment
+Create and activate a virtual environment:
 
+bash
+Copy
+Edit
+python -m venv env
+Activate the virtual environment:
+
+Windows: env\Scripts\activate
+macOS/Linux: source env/bin/activate
 
 
 
