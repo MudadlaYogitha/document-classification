@@ -17,17 +17,7 @@ Clone this repository to your local machine.
 git clone https://github.com/username/document-classification.git
 cd document-classification
 
-Step 2: Set up the virtual environment
-Create and activate a virtual environment:
-
-bash
-Copy
-Edit
-python -m venv env
-Activate the virtual environment:
-
-Windows: env\Scripts\activate
-macOS/Linux: source env/bin/activate
+### Set up the virtual environment
 
 
 
